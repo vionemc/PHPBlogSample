@@ -1,0 +1,83 @@
+.trophybox td {
+  padding: 8px 16px;
+  text-align: center;
+  font-size: 0.85em;
+}
+.trophysidebox td {
+  padding: 2px 8px;
+  text-align: center;
+  font-size: 0.85em;
+}
+.trophybox img {
+  padding: 6px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+}
+.trophybox a:hover img {
+  background-color: #ff9;
+}
+.trophybox a {
+  text-decoration: none;
+}
+.trophyinfo {
+  width: 116px;
+  margin: 4px auto;
+  text-align: center;
+}
+.trophyquote {
+  font-size: 0.8em;
+  color: #666;
+  font-style: italic;
+  margin: auto;
+}
+.trophyname {
+  width: 116px;
+  margin: 4px auto;
+  font-weight: bold;
+  text-align: center;
+}
+.trophicon {
+  width: 16px;
+  height: 16px;
+  vertical-align: bottom;
+}
+div.trophycase {
+  padding: 10px;
+}
+div.trophycase a:hover {
+  background-color: #ff9;
+  text-decoration: none;
+}
+div.trophymessage {
+  padding: 10px;
+  margin-top: 10px;
+  width: 400px;
+  float: left;
+}
+.trophycase img {
+  padding: 6px;
+  margin: 8px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  vertical-align: bottom;
+  height: 64px;
+  width: 64px;
+}
+div.trophyimgdropdown {
+  margin-top: 10px;
+  height: 300px;
+}
+span.trophyimgdropdown {
+  float: right;
+  text-align: center;
+  width: 150px;
+}
+.trophyimgdropdown img {
+  vertical-align: bottom;
+  height: 128px;
+  width: 128px;
+  padding: 10px;
+  margin: auto;
+  background-color: #fff;
+  border: 1px solid #ddd;
+}
